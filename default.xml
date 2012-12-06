@@ -349,5 +349,7 @@
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" remote="github" revision="mr1-staging" />
+  <project path="vendor/cm" name="ElevateROM/android_vendor_elevate" remote="github" revision="4.2" />
+
 
 </manifest>
