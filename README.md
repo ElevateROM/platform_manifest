@@ -8,7 +8,7 @@ How to build:
   
   B) cd elevate
   
-  C) repo init -u git://github.com/ElevateRom/platform_manifest.git -b master
+  C) repo init -u git://github.com/ElevateROM/platform_manifest.git -b master
   
   D) repo sync
   
